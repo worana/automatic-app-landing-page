@@ -29,7 +29,7 @@
 }
 
 .subPageHeaderBackground {
-	background-color: #000;
+	background-color: rgba(#000, $header-transparency);
 }
 
 .container {					// Set up the container for the site content
@@ -225,7 +225,7 @@ nav > ul li a:active {
 
 // Sub Page Header Styling
 .subPageHeaderBackground .logo > p {
-	color: #6666;
+	color: #FFF;
 }
 
 .subPageHeaderBackground nav > ul li a:link,
