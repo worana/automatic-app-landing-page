@@ -50,7 +50,7 @@
 
 .subPageContainer {
 	grid-template-rows: 115px auto auto auto;
-	background-color: #fff;
+	background-color: rgba(#000, 0.4);
 }
 
 @media only screen and (max-width: 768px) {
@@ -110,7 +110,7 @@ header {
 	white-space: nowrap;
 	display: flex;
 	font-weight: bold;
-	margin-left: 15px;
+	margin-left:background-color: #fff; 15px;
 }
 
 @media only screen and (max-width: 768px) {
